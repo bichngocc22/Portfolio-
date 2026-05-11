@@ -175,7 +175,7 @@ a:hover {
 
 .profile-image {
     width: 100px;
-    height: 100px;
+    height: 300px;
     border-radius: 50%;
     border: 3px solid var(--pink-primary);
     object-fit: cover;
