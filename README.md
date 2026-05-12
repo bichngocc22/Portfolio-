@@ -96,4 +96,24 @@ Xử lý ảnh
 Bao gồm:
 
 Email:bichngoclam90@gmail.com
+
 Facebook:Bíchh Ngọc
+
+Hướng dẫn chạy dự án
+Cách 1: Mở trực tiếp file index.html bằng trình duyệt.
+
+Cách 2: Chạy bằng VS Code Live Server hoặc GitHub Codespaces.
+
+ Hướng dẫn triển khai GitHub Pages
+1. Tạo repository mới trên GitHub.
+2. Upload toàn bộ file dự án lên repository.
+3. Vào *Settings* > *Pages*.
+4. Chọn branch main và thư mục /root.
+5. Lưu lại và chờ GitHub tạo link website.
+
+Thông tin cần thay trước khi nộp
+- Thay tên, mã sinh viên nếu cần.
+- Thay link GitHub repository thật.
+- Thay link website đã triển khai.
+- Thay link LinkedIn thật nếu có.
+- Nén file theo quy tắc: <Mã sinh viên>_<Họ và tên>.zip.
