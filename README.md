@@ -1,4 +1,4 @@
-Chat GPT: 
+Promt Chat GPT: 
 1. Thông tin cá nhân
 Họ tên: Lâm Bích Ngọc
 Vai trò: Digital Graphic Design Student | UX/UI Designer
