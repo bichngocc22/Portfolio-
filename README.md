@@ -1,5 +1,4 @@
 Portfolio - Lâm Bích Ngọc
-
 CÁC BƯỚC THỰC HIỆN LÀM PORTFOLIO BẰNG CHATGPT VÀ GITHUB
 
 BƯỚC 1: DÙNG CHATGPT
@@ -37,7 +36,7 @@ Có tối thiểu một yếu tố tương tác (ví dụ: hiệu ứng chuyển
 
 Kết quả promt (chưa phải kết quả cuối):
 
-1. Thông tin cá 
+1. Thông tin cá nhân
 
 Họ tên: Lâm Bích Ngọc
 
@@ -100,7 +99,7 @@ Smooth transition
 
 Scroll behavior mượt
 
-5. Cấu trúc Website
+4. Cấu trúc Website
   
 1. Hero Section
 
@@ -120,7 +119,7 @@ View Projects
 
 Contact Me
 
-2. About Section
+3. About Section
 
 Bao gồm:
 
@@ -140,7 +139,7 @@ Illustrator
 
 Figma
 
-3. Projects Section
+4. Projects Section
 
 Hiển thị ít nhất 6 dự án dưới dạng card.
 
@@ -162,7 +161,7 @@ E-commerce Website UI
 
 English Learning App
 
-4. Skills / Experience Section
+5. Skills / Experience Section
 
 Trình bày trực quan bằng progress bars hoặc cards.
 
