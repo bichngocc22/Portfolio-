@@ -235,7 +235,7 @@ Hướng dẫn triển khai GitHub Pages:
   
    BƯỚC CUỐI CÙNG: KIỂM TRA TẤT CẢ, CHỈNH SỬ LẦN CUỐI VÀ HOÀN THÀNH BÀI.
 
-                     _END_
+   __END__
    
   
      
