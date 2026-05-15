@@ -216,7 +216,7 @@ BƯỚC 3: DÙNG GITHUB:
 
 5. Chạy dự án bằng VS Code Live Server hoặc GitHub Codespaces;
 
- Hướng dẫn triển khai GitHub Pages:
+Hướng dẫn triển khai GitHub Pages:
  
  - Tạo repository mới trên GitHub.
  
@@ -227,3 +227,16 @@ BƯỚC 3: DÙNG GITHUB:
  - Chọn branch main và thư mục /root.
  
  - Lưu lại và chờ GitHub tạo link website.
+
+   BƯỚC 4: CHỈNH CODE VÀ THÊM HÌNH ẢNH Ở CODE
+   - Điều chỉnh các thông tin cá nhân và các mục tiêu đề cũng như các thông tin khác cho chính xác;
+     
+   - Thêm ảnh bằng link và tăng giảm kích thước ảnh.
+  
+   BƯỚC CUỐI CÙNG: KIỂM TRA TẤT CẢ, CHỈNH SỬ LẦN CUỐI VÀ HOÀN THÀNH BÀI.
+
+                     _END_
+   
+  
+     
+   
