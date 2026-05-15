@@ -1,4 +1,9 @@
-Promt Chat GPT: 
+Portfolio - Lâm Bích Ngọc
+
+
+CÁC BƯỚC THỰC HIỆN LÀM PORTFOLIO BẰNG CHATGPT VÀ GITHUB
+
+
 1. Thông tin cá nhân
 Họ tên: Lâm Bích Ngọc
 Vai trò: Digital Graphic Design Student | UX/UI Designer
