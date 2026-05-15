@@ -5,7 +5,10 @@ CÁC BƯỚC THỰC HIỆN LÀM PORTFOLIO BẰNG CHATGPT VÀ GITHUB
 
 
 BƯỚC 1: DÙNG CHATGPT
+
 Đưa ra vấn đề mình cần làm cho Chatgpt xử lý
+
+
 
 
 1. Thông tin cá nhân
