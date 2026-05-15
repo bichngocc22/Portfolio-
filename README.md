@@ -198,33 +198,32 @@ Email:bichngoclam90@gmail.com
 
 Facebook:Bíchh Ngọc
 
-Hướng dẫn chạy dự án
+BƯỚC 2: CHỈNH SỬA PROMT
 
-Cách 1: Mở trực tiếp file index.html bằng trình duyệt.
+Chỉnh sửa sơ lược, thêm một số mục còn thiếu, chỉnh lại bố cục, màu sắc, hiệu ứng... theo mình mong muốn.
 
-Cách 2: Chạy bằng VS Code Live Server hoặc GitHub Codespaces.
+Nên chỉnh đầy đủ mọi thứ trong ít lần nhất có thể để dễ dàng hơn đỡ rối hơn và tránh trường hợp hết Free.
 
- Hướng dẫn triển khai GitHub Pages
+BƯỚC 3: DÙNG GITHUB:
+
+1. Vào trang web github;
+
+2. Nhấn New;
+
+3. Create Codespaces;
+
+4. Dán promt(đã chỉnh sửa hoàn thiện) vào AI của github và đợi AI tạo;
+
+5. Chạy dự án bằng VS Code Live Server hoặc GitHub Codespaces;
+
+ Hướng dẫn triển khai GitHub Pages:
  
-1. Tạo repository mới trên GitHub.
-2. 
-3. Upload toàn bộ file dự án lên repository.
-4. 
-5. Vào *Settings* > *Pages*.
-6. 
-7. Chọn branch main và thư mục /root.
-8. 
-9. Lưu lại và chờ GitHub tạo link website.
-
-
-Thông tin cần thay trước khi nộp
-
-- Thay tên, mã sinh viên nếu cần.
+ - Tạo repository mới trên GitHub.
  
-- Thay link GitHub repository thật.
+ - Upload toàn bộ file dự án lên repository.
  
-- Thay link website đã triển khai.
-
-- Thay link LinkedIn thật nếu có.
-
-- Nén file theo quy tắc: <Mã sinh viên>_<Họ và tên>.zip.
+ - Vào *Settings* > *Pages*.
+ 
+ - Chọn branch main và thư mục /root.
+ 
+ - Lưu lại và chờ GitHub tạo link website.
