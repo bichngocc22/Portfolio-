@@ -4,8 +4,22 @@ CÁC BƯỚC THỰC HIỆN LÀM PORTFOLIO BẰNG CHATGPT VÀ GITHUB
 
 BƯỚC 1: DÙNG CHATGPT
 
-Đưa ra vấn đề mình cần làm cho Chatgpt xử lý
-
+Đưa ra vấn đề mình cần làm cho Chatgpt xử lý:
+"Bạn là 1 chuyên gia về UX/UI. Tạo cho tôi 1 portfolio thu hút nhà tuyển dụng bao gồm html + csss. Giao diện dark and pink. Website portfolio cá nhân phải bao gồm tối thiểu các nội dung sau:
+Phần giới thiệu (Hero): Họ tên, vai trò nghề nghiệp, câu mô tả ngắn mang dấu ấn cá nhân;
+Phần giới thiệu bản thân (About): Thông tin cá nhân, định hướng nghề nghiệp, kỹ năng chính, sở thích;
+Phần dự án (Projects):
+Tên dự án;
+Mô tả ngắn;
+Hình ảnh minh họa (khuyến khích có sử dụng AI);
+Vai trò của sinh viên trong dự án;
+Phần thể hiện kỹ năng hoặc kinh nghiệm (Skills/Experience): trình bày bằng biểu đồ, sơ đồ, thẻ thông tin hoặc hình thức trực quan khác;
+Phần liên hệ (Contact): thông tin liên hệ và lời kêu gọi hành động rõ ràng.
+2.4. Yêu cầu thiết kế
+Website phải thể hiện được bản sắc cá nhân rõ ràng thông qua màu sắc, kiểu chữ và phong cách thiết kế;
+Giao diện thân thiện với nhà tuyển dụng: bố cục rõ ràng, dễ đọc, dễ tiếp cận thông tin;
+Đảm bảo khả năng hiển thị tốt trên nhiều thiết bị (responsive);
+Có tối thiểu một yếu tố tương tác (ví dụ: hiệu ứng chuyển động, hiệu ứng hover, chuyển đổi giao diện sáng/tối). Hãy tạo cho tôi 1 promt để agent có thể thiết kế ra website như vậy.
 
 
 
